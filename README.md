@@ -1,1 +1,1 @@
-# ALG1
+# ALG1 Algorithm for obstacles avoiding in robotics
